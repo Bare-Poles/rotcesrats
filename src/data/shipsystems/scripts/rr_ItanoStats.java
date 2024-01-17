@@ -38,6 +38,11 @@ private float CHANCE = 0.1f;
 						float randomArc = MathUtils.getRandomNumberInRange(-18f, 18f);
 						randomArc = randomArc * effectLevel;
 						
+						// 35% chance of a Gyro
+						// 30% chance of a "Bearing" rocket
+						// 20% chance of a Swarmer
+						// 15% chance of a Locust
+						
 						if (WHICHSHOT <= 0.35) {
 							Global.getCombatEngine().spawnProjectile(ship,
 									null,

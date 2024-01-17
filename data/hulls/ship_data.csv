@@ -24,7 +24,7 @@ Buffalo Mk.=,rr_buffaloeq,Destroyer,Pirate,flarelauncher,7,2500,200,2250,1667,10
 Rednus,rr_rednus,Destroyer,Midline,highenergyfocus,10,4000,250,7500,8333,500,105,,100,90,60,30,30,360,FRONT,,290,0.4,1.2,,,50,70,80,50,2,25,9,42500,5,15,300,0.25,11,11,,"midline_bp, merc, ind",,0.5,2,3,301301
 Susrat,rr_susrat,Combat Freighter,Low Tech,burndrive,7,4500,450,2000,2083,125,40,1,45,35,25,25,15,400,OMNI,,120,0.55,1.2,,,60,120,200,70,2,35,8,24000,5,15,390,0.25,7,7,"FREIGHTER, CARRIER","lowtech_bp, ind",,0.5,2,3,306306
 Susrat-S,rr_susrat_slv,Combat Freighter,Low Tech,flarelauncher,7,4250,400,2000,2083,120,35,1,45,30,25,25,15,440,OMNI,,120,0.6,1.2,,,60,120,180,60,2,30,8,30000,5,20,360,0.25,7,7,"FREIGHTER, CARRIER","lowtech_bp, ind",,0.6,2,3,312312
-Falconet L,rr_falconet_l,Destroyer,Pirate,maneuveringjets,8,4000,450,3500,14,225,65,,90,55,35,25,40,300,FRONT,,135,0.4,0.8,,,50,90,60,50,2,25,9,40000,5,12,300,0.25,8,8,,pirate_bp,"",0.6,2,3,400400
+Falconet L,rr_falconet_l,Destroyer,Pirate,maneuveringjets,8,4000,450,3500,14,225,65,,90,55,35,25,40,300,FRONT,,135,0.4,0.8,,,50,90,60,50,2,25,9,40000,5,12,300,0.25,8,8,,pirate_bp,,0.6,2,3,400400
 Falconet R,rr_falconet_r,Destroyer,Pirate,maneuveringjets,8,4000,450,3500,14,225,65,,90,55,35,25,40,300,FRONT,,135,0.4,0.8,,,50,90,60,50,2,25,9,40000,5,12,300,0.25,8,8,,pirate_bp,,0.6,2,3,400401
 Surebrec,rr_surebrec,Combat Freighter,Low Tech,burndrive,7,3000,400,2000,1875,180,60,,100,90,50,40,80,350,NONE,,0,0,0,,,30,60,100,50,2,25,9,19000,6,10,300,0.25,7,7,,"base_bp, ind",,0.4,2,2,213213
 Surebrec MK.II,rr_surebrec_p,Destroyer,Pirate,burndrive,9,2800,400,1800,1875,150,60,,100,90,50,40,80,350,NONE,,0,0,0,,,40,40,20,30,2,15,9,22000,6,15,240,0.25,9,9,,pirate_bp,,0.5,2,2,213214
@@ -32,7 +32,7 @@ Inimeg,rr_inimeg,Combat Freighter,Midline,flarelauncher_active,9,4500,350,2900,2
 Valkyrie Mk.II,rr_valkyrie_m2,Destroyer,Midline,rr_drone_scope,9,3800,500,3500,3333,200,80,,80,60,60,30,45,400,FRONT,,100,0.4,0.8,,,40,80,50,60,2,30,9,35000,5,15,360,0.25,8,8,,"rare_bp, merc, ind",,0.5,2,3,307307
 Cephalofoil,rr_cephalofoil,Destroyer,Midline,ammofeed,10,5000,500,4000,4167,200,95,,90,55,40,30,55,420,FRONT,,300,0.4,0.8,,,50,100,100,60,2,30,9,40000,5,12,360,0.25,10,10,,"midline_bp, merc, ind",,0.5,2,3,300300
 Portico,rr_portico,Destroyer,High Tech,rr_barriershield,9,3000,350,7000,69,250,80,,70,50,40,25,40,300,FRONT,,150,0.4,0.9,,,30,60,60,60,2,30,9,35000,5,15,390,0.25,9,9,,"hightech_bp, merc, ind",,0.7,2,3,2221.1
-Phaeton Mk.=,rr_phaeton_eq,Destroyer,Pirate,rr_heavy_itano_array,17,4000,650,4500,,220,95,,70,60,40,35,35,420,OMNI,,110,0.4,1.0,,,60,60,30,30,2,15,8,80000,5,15,240,0.25,18,18,HIDE_IN_CODEX,no_dealer,,0.7,2,2,222309
+Phaeton Mk.=,rr_phaeton_eq,Destroyer,Pirate,rr_heavy_itano_array,17,5000,650,5500,,300,95,,70,60,40,35,35,420,OMNI,,110,0.4,1,,,60,60,30,30,2,15,8,80000,5,15,240,0.25,18,18,HIDE_IN_CODEX,no_dealer,,0.7,2,2,222309
 Scric,rr_scric,Light Destroyer,High Tech,rr_cyclemissilefeed,9,2600,250,5000,,260,85,,100,100,80,35,80,250,OMNI,,150,0.3,0.7,,,20,40,40,50,2,25,10,30000,5,15,300,0.25,9,9,,"hightech_bp, merc, ind",,0.7,2,3,319319
 Foreman,rr_foreman,Destroyer,Low Tech,burndrive,10,6500,850,4000,,200,95,,65,45,25,30,25,500,OMNI,,150,0.4,1,,,60,110,180,120,3,40,9,38000,5,10,420,0.25,9,9,,"rare_bp, ind",,0.4,2,3,222303
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

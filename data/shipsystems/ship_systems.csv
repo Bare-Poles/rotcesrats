@@ -7,7 +7,7 @@ Damper Field (S),rr_damper,1,,,,,,,,,0.3,3,0.3,18,,,,,TRUE,,,,TRUE,TRUE,,,graphi
 PD Platforms,rr_pd_platforms,,,,,,,,2,0.01,0,,0,0,,,,,,,,,,,,,graphics/icons/hullsys/drone_pd_high.png
 Itano Missile Array,rr_itano_array,,,,,,,,,,2,2,1,15,,,,,TRUE,,,,,,,,graphics/icons/hullsys/missile_autoforge.png
 Flare Stream,rr_flare_stream,,,,,,,,4,0.04,,,,5,,,,,,,,,,,,,graphics/icons/hullsys/flare_launcher.png
-Heavy Itano Missile Array,rr_heavy_itano_array,,,,,,,,,,2,2,1,15,,,,,TRUE,,,,,,,,graphics/icons/hullsys/missile_autoforge.png
+Heavy Itano Missile Array,rr_heavy_itano_array,,,,,,,,,,2.1,2.6,1.3,18,,,,,TRUE,,,,,,,,graphics/icons/hullsys/missile_autoforge.png
 Missile Autoforge (R),rr_autoforge_lily,,,,,,0.5,,2,0.033333,1,0,0,8,,,,,,,,,,,,,graphics/icons/hullsys/missile_autoforge.png
 Burst Jets,rr_burstjets,1,,,,,,,2,0.15,0.5,1.5,0.5,1,,,,,,,,,TRUE,TRUE,,,graphics/icons/hullsys/maneuvering_jets.png
 Cycle Missile Feeds,rr_cyclemissilefeed,,,,,,0.3,,,,1,0,0,8,,,,,,,,,,,,,graphics/icons/hullsys/missile_racks.png

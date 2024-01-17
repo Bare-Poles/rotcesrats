@@ -36,6 +36,12 @@ trail,projectile,sprite,minLength,fadeIn,duration,fadeOut,sizeIn,sizeOut,colorIn
 #float frameOffsetMult: scales the per-frame velocity offset (only necessary for overkill levels of control with default x1 multiplier).,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-rr_miser_shot_1,rr_miser_shot,base_trail_zapWithCore,10,0.1,0.05,0.3,15,5,"[170,145,240]","[200,180,170]",0.45,-1,128,TRUE,20,3,1,0,TRUE,FALSE,TRUE,40,400,0.2,0,0,0,FALSE,TRUE
-rr_miser_shot_2,rr_miser_shot,base_trail_heavyBurn,10,0,0,0.3,19,24,"[255,75,105]","[165,145,165]",0.4,128,12,TRUE,20,3,1,0,TRUE,FALSE,TRUE,40,400,0.2,0,0,0,FALSE,TRUE
+rr_flint_shot,rr_flint_shot,base_trail_heavyBurn,10,0,0,0.3,9,12,"[255,75,105]","[165,145,165]",0.52,128,12,TRUE,20,3,1,0,TRUE,FALSE,TRUE,40,-200,0.2,0,0,0,FALSE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+rr_miser_shot_1,rr_miser_shot,base_trail_zapWithCore,10,0.1,0.05,0.3,15,5,"[170,145,240]","[200,180,170]",0.45,-1,128,TRUE,20,3,1,0,TRUE,FALSE,TRUE,40,100,0.2,0,0,0,FALSE,TRUE
+rr_miser_shot_2,rr_miser_shot,base_trail_heavyBurn,10,0,0,0.3,19,24,"[255,75,105]","[165,145,165]",0.4,128,12,TRUE,20,3,1,0,TRUE,FALSE,TRUE,40,100,0.2,0,0,0,FALSE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+rr_d-tpc_shot_1,rr_d-tpc_shot,base_trail_zap,10,0,0,0.15,33,5,"[255,0,0]","[255,50,0]",0.7,1024,0,TRUE,0,0,1,0,TRUE,FALSE,TRUE,20,20,0,0,0,0,false,false
+rr_d-tpc_shot_2,rr_d-tpc_shot,base_trail_zap,10,0,0,0.1,16,5,"[255,255,255]","[255,255,255]",0.7,880,0,TRUE,0,0,1,0,TRUE,FALSE,TRUE,20,20,0,0,0,0,false,false
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

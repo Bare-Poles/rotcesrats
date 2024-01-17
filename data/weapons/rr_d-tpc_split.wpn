@@ -22,6 +22,6 @@
 					   "particleCount":10,
 					   "particleColor":[255,100,100,255]},		
 	"autocharge":true,  # whether the weapon will continue charging and fire if the LMB is tapped instead of held
-	"projectileSpecId":"rr_d-tpc_shot_split",  # projectile that will be fired
+	"projectileSpecId":"rr_d-tpc_shot",  # projectile that will be fired
 	"fireSoundTwo":"thermal_pulse_cannon_fire",
 }

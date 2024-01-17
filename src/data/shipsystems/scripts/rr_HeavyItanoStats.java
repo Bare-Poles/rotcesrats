@@ -15,6 +15,8 @@ public class rr_HeavyItanoStats extends BaseShipSystemScript {
 
 private float RELOAD = 0.1f;
 private float CHANCE = 0.1f;
+
+public static final float DAMAGE_REDUCTION = 0.2f; // secret addition, because the ship was failing to live up to it's *18 dp* cost
 	
 	public void apply(MutableShipStatsAPI stats, String id, State state, float effectLevel) {
 
@@ -22,7 +24,11 @@ private float CHANCE = 0.1f;
 		  
 		CombatEngineAPI engine = Global.getCombatEngine();
 		float timer = engine.getElapsedInLastFrame() * ship.getMutableStats().getTimeMult().getModifiedValue();
-
+		
+		stats.getHullDamageTakenMult().modifyMult(id, 1f - (DAMAGE_REDUCTION * effectLevel));
+		stats.getArmorDamageTakenMult().modifyMult(id, 1f - (DAMAGE_REDUCTION * effectLevel));
+		stats.getEmpDamageTakenMult().modifyMult(id, 1f - (DAMAGE_REDUCTION * effectLevel));
+		
 		if (state == ShipSystemStatsScript.State.OUT) {
 		} else {
 			
@@ -37,11 +43,18 @@ private float CHANCE = 0.1f;
 						float WHATSHOT = (float) Math.random();
 						
 						float WHICHSHOT = WHATSHOT * effectLevel;
-							// so it won't fire the spicy shit when spooling up/down
+							// so it won't fire the spicier shit when spooling up/down
 							// will also get a burst of kinetics at start/end, which helps with defeating shields
 						
 						float randomArc = MathUtils.getRandomNumberInRange(-12f, 12f);
 						randomArc = randomArc * effectLevel;
+						
+						// 35% chance of a "Squall" rocket
+						// 10% chance of 3x frag damage prox bombs
+						// 20% chance of an Arpo
+						// 20% chance of a "Pilum" (second stage)
+						// 5% chance of a Breach
+						// 10% chance of a Newt
 						
 						if (WHICHSHOT <= 0.35) {
 							Global.getCombatEngine().spawnProjectile(ship,
@@ -127,6 +140,11 @@ private float CHANCE = 0.1f;
 	}
 	
 	public void unapply(MutableShipStatsAPI stats, String id) {
+		
+		stats.getHullDamageTakenMult().unmodify(id);
+		stats.getArmorDamageTakenMult().unmodify(id);
+		stats.getEmpDamageTakenMult().unmodify(id);
+		
 	}
 	
 	public StatusData getStatusData(int index, State state, float effectLevel) {

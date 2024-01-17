@@ -1,6 +1,5 @@
 {
 	"id":"rr_d-tpc_shot",
-	"onFireEffect":"data.scripts.rr_dtpc_shotgun",
 	"specClass":"projectile",
 	"spawnType":"BALLISTIC_AS_BEAM",
 	"collisionClass":"RAY",
