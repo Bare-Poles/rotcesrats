@@ -3,7 +3,7 @@
   "hullId": "rr_undertaking",
   "displayName": "Support",
   "goalVariant": true,
-  "fluxCapacitors": 9,
+  "fluxCapacitors": 15,
   "fluxVents": 30,
   "quality": 0.5,
   "permaMods": [],

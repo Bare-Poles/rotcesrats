@@ -3,7 +3,7 @@
   "hullId": "rr_gryphon_b",
   "displayName": "Support",
   "goalVariant": true,
-  "fluxCapacitors": 2,
+  "fluxCapacitors": 4,
   "fluxVents": 30,
   "quality": 0,
   "permaMods": [],

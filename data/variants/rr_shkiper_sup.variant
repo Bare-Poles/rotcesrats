@@ -3,12 +3,13 @@
   "hullId": "rr_shkiper",
   "displayName": "Support",
   "goalVariant": true,
-  "fluxCapacitors": 5,
+  "fluxCapacitors": 3,
   "fluxVents": 10,
   "quality": 1,
   "permaMods": [],
   "hullMods": [
-    "targetingunit"
+    "targetingunit",
+    "ecm"
   ],
   "weaponGroups": [
     {

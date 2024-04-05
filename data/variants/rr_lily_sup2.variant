@@ -3,7 +3,7 @@
   "hullId": "rr_lily",
   "displayName": "Support",
   "goalVariant": true,
-  "fluxCapacitors": 9,
+  "fluxCapacitors": 12,
   "fluxVents": 30,
   "quality": 1,
   "permaMods": [],

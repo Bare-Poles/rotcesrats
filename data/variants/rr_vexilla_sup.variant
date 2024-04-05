@@ -3,7 +3,7 @@
   "hullId": "rr_vexilla",
   "displayName": "Support",
   "goalVariant": true,
-  "fluxCapacitors": 6,
+  "fluxCapacitors": 10,
   "fluxVents": 10,
   "quality": 1,
   "permaMods": [],

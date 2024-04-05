@@ -4,7 +4,7 @@
   "displayName": "Siege",
   "goalVariant": true,
   "fluxCapacitors": 30,
-  "fluxVents": 2,
+  "fluxVents": 5,
   "quality": 0.5,
   "permaMods": [],
   "hullMods": [

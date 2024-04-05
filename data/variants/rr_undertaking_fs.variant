@@ -3,7 +3,7 @@
   "hullId": "rr_undertaking",
   "displayName": "Fire Support",
   "goalVariant": true,
-  "fluxCapacitors": 8,
+  "fluxCapacitors": 14,
   "fluxVents": 30,
   "quality": 0.5,
   "permaMods": [],

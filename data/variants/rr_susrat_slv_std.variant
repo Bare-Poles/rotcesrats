@@ -1,6 +1,6 @@
 {
   "displayName": "Standard",
-  "fluxCapacitors": 0,
+  "fluxCapacitors": 2,
   "fluxVents": 8,
   "goalVariant": true,
   "hullId": "rr_susrat_slv",

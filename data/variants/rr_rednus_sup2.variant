@@ -3,8 +3,8 @@
   "hullId": "rr_rednus",
   "displayName": "Support",
   "goalVariant": false,
-  "fluxCapacitors": 5,
-  "fluxVents": 20,
+  "fluxCapacitors": 19,
+  "fluxVents": 10,
   "quality": 1,
   "permaMods": [],
   "hullMods": [

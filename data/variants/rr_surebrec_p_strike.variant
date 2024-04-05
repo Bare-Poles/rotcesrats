@@ -8,7 +8,9 @@
   "quality": 0,
   "permaMods": [],
   "hullMods": [
-    "reinforcedhull"
+    "reinforcedhull",
+    "auxiliarythrusters",
+    "armoredweapons"
   ],
   "weaponGroups": [
     {

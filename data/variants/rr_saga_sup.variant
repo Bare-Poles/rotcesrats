@@ -3,7 +3,7 @@
   "hullId": "rr_saga",
   "displayName": "Support",
   "goalVariant": true,
-  "fluxCapacitors": 6,
+  "fluxCapacitors": 14,
   "fluxVents": 0,
   "quality": 1,
   "permaMods": [],

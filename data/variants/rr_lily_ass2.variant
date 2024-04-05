@@ -3,7 +3,7 @@
   "hullId": "rr_lily",
   "displayName": "Assault",
   "goalVariant": false,
-  "fluxCapacitors": 12,
+  "fluxCapacitors": 15,
   "fluxVents": 30,
   "quality": 1,
   "permaMods": [],

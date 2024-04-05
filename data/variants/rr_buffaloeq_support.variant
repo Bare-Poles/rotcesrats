@@ -4,11 +4,12 @@
   "displayName": "Support",
   "goalVariant": true,
   "fluxCapacitors": 0,
-  "fluxVents": 20,
+  "fluxVents": 14,
   "quality": 0,
   "permaMods": [],
   "hullMods": [
-    "converted_hangar"
+    "converted_hangar",
+    "hardened_subsystems"
   ],
   "weaponGroups": [
     {
