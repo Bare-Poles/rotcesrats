@@ -3,7 +3,7 @@
   "hullId": "rr_conslaught",
   "displayName": "Scavenged",
   "goalVariant": true,
-  "fluxCapacitors": 22,
+  "fluxCapacitors": 23,
   "fluxVents": 50,
   "quality": 1,
   "permaMods": [],

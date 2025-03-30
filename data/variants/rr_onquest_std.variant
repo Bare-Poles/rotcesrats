@@ -3,7 +3,7 @@
   "hullId": "rr_onquest",
   "displayName": "Standard",
   "goalVariant": true,
-  "fluxCapacitors": 36,
+  "fluxCapacitors": 40,
   "fluxVents": 50,
   "quality": 1,
   "permaMods": [],

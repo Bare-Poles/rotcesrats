@@ -3,7 +3,7 @@
   "hullId": "rr_cephalofoil",
   "displayName": "Assault",
   "goalVariant": false,
-  "fluxCapacitors": 5,
+  "fluxCapacitors": 7,
   "fluxVents": 20,
   "quality": 1,
   "permaMods": [],

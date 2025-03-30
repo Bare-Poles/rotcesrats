@@ -3,7 +3,7 @@
   "hullId": "rr_scric",
   "displayName": "Strike",
   "goalVariant": true,
-  "fluxCapacitors": 1,
+  "fluxCapacitors": 3,
   "fluxVents": 10,
   "quality": 1,
   "permaMods": [],

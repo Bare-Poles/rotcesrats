@@ -17,7 +17,7 @@
 		"job_forFaction": "sindrian_diktat",
 		"job_deadline": 150,
 		"job_credit_reward": 160000,
-		"job_reward_scaling": 0.5,
+		"job_reward_scaling": 0.35,
 		"job_reputation_reward": 5,
 		
 		"job_type": "assassination",
@@ -95,7 +95,7 @@
 		"job_forFaction": "hegemony",
 		"job_deadline": 200,
 		"job_credit_reward": 200000,
-		"job_reward_scaling": 0.5,
+		"job_reward_scaling": 0.25,
 		"job_reputation_reward": 10,
 		
 		"job_type": "neutralisation",

@@ -3,7 +3,7 @@
   "hullId": "rr_lily",
   "displayName": "Elite",
   "goalVariant": true,
-  "fluxCapacitors": 10,
+  "fluxCapacitors": 12,
   "fluxVents": 30,
   "quality": 1,
   "permaMods": [],
@@ -46,11 +46,6 @@
         "WS0010": "pdlaser",
         "WS0011": "pdlaser"
       }
-    },
-    {
-      "autofire": false,
-      "mode": "LINKED",
-      "weapons": {}
     }
   ],
   "modules": [],

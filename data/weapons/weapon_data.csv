@@ -14,17 +14,17 @@ Axle Microtorpedo Launcher,rr_axle,0,,200,1200,,360,,25,10,3,10,,,HIGH_EXPLOSIVE
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Wrath of ludd,rr_wrath,0,,100000,1500,,6000,,200,10,20,10,,,HIGH_EXPLOSIVE,0,,0,60,1,,0,0,0,0,,300,75,6,750,,,"GUIDED_POOR, STRIKE, SYSTEM, SHOW_IN_CODEX",,,,,Finisher,Medium,Very Poor,,,On impact generates %s secondary detonations that deal %s damage each.,16 | 150 Energy,,,TRUE,22299
 Wrath Burst Dummy,rr_wrath_burst,0,,1000,1,,150,30,10,10,1,,,,ENERGY,0,,0,0.5,1,,0,0,0,0,,10,,,10,,,SYSTEM,dummy_proj,,,,Detonation Dummy,,,,,,,,,,80055
-Flint Coilgun (Fighter),rr_flint_coil_f,0,,1000,400,,70,,40,25,6,,,,KINETIC,60,,0.15,0.25,1,,2,10,2,6,,800,,,50,,,"SYSTEM, PD_ALSO",,,Pirate,,Anti Shield,,,,,,,,,,2223.8
-Quagmire Suppressor,rr_quagmire,0,,10000,700,,70,,10,40,8,,,,KINETIC,35,,0,1.1,3,0.2,10,20,2,8,,700,,,30,,,"SYSTEM, PD, ANTI_FTR, FIRE_WHEN_INEFFICIENT",,,,,Point Defense (Area),,,,,Shells scatter %s fragments that each deal %s fragmentation and %s EMP damage.,7 | 10 | 40,,,,2224
-Quagmire Suppressor (Fighter),rr_quagmire_f,0,,10000,650,,40,,10,40,8,,,,KINETIC,30,,0,1.6,5,0.1,10,20,2,8,,700,,,30,,,"SYSTEM, PD, ANTI_FTR, FIRE_WHEN_INEFFICIENT",,,,,Point Defense (Area),,,,,Shells scatter %s fragments that each deal %s fragmentation and %s EMP damage.,4 | 10 | 40,,,,2224.1
+Flint Coilgun (Fighter),rr_flint_coil_f,0,,1000,400,,70,,40,25,6,,,,KINETIC,60,,0.15,0.25,1,,2,10,2,6,,800,,,50,,,"SYSTEM, PD_ALSO, SHOW_IN_CODEX",,,Pirate,,Anti Shield,,,,,,,,,,2223.8
+Quagmire Suppressor,rr_quagmire,0,,10000,700,,70,,10,40,8,,,,KINETIC,35,,0,1.1,3,0.2,10,20,2,8,,700,,,30,,,"SYSTEM, PD, ANTI_FTR, FIRE_WHEN_INEFFICIENT, SHOW_IN_CODEX",,,,,Point Defense (Area),,,,,Shells scatter %s fragments that each deal %s fragmentation and %s EMP damage.,7 | 10 | 40,,,,2224
+Quagmire Suppressor (Fighter),rr_quagmire_f,0,,10000,650,,40,,10,40,8,,,,KINETIC,30,,0,1.6,5,0.1,10,20,2,8,,700,,,30,,,"SYSTEM, PD, ANTI_FTR, FIRE_WHEN_INEFFICIENT, SHOW_IN_CODEX",,,,,Point Defense (Area),,,,,Shells scatter %s fragments that each deal %s fragmentation and %s EMP damage.,4 | 10 | 40,,,,2224.1
 Quagmire Splinter,rr_quagmire_splinter,0,,1000,40,,10,40,2,1,,,,,FRAGMENTATION,,,0,1,1,,0,0,0,0,,800,,,10,,,SYSTEM,,,,,,,,,,,,,,,2224.2
 Diffused Thermal Pulse Cannon,rr_d-tpc,0,,100000,1000,,180,,0,0,,36,1.5,6,ENERGY,108,,0.15,0.65,1,,14,20,2,1,,1000,,,,,,"SYSTEM, SHOW_IN_CODEX",,TPC_only,,,General,,,,Spread,,,,,,22240
-D-TPC Dummy,rr_d-tpc_split,0,,100000,1000,,180,,0,0,,,,,ENERGY,108,,0,0.1,1,,0,0,0,0,,1000,,,,,,SYSTEM,,,,,General,,,,,,,,,,22240.1
-Axle Microtorpedo Rack,rr_axle_f,0,,1000,1200,,360,,25,10,1,2,,,HIGH_EXPLOSIVE,0,,0,4.1,2,0.5,16,24,8,0.5,,550,50,4,175,,,"SYSTEM, STRIKE","strike6, rocket4",,,,Torpedo,Fast,None,,,,,,,TRUE,2229.9
-Light Needler (Compact),rr_lightneedler_c,0,,1000,500,,40,,1,20,8,,,,KINETIC,30,,0,2.85,10,0.05,5,20,1.5,5,,1000,,,10,,,SYSTEM,kinetic9,,,,Anti Shield,,,,,,,,,,2223.65
-Arpo MRM (Twin),rr_arpo_f,0,,1000,1200,,500,,15,30,2,2,,,HIGH_EXPLOSIVE,0,,0,0.9,1,,10,10,0,0,,240,90,10,150,,,"SYSTEM, DO_NOT_AIM","missile7, strike2",,Pirate,,Finisher,Medium,Medium,,,,,,,TRUE,22211.5
-Gyro Micromissile Array,rr_conc_gyro_array,0,,1000,800,,100,30,10,0,,9,1.5,3,FRAGMENTATION,0,,0,0.15,1,,25,40,5,3,,500,125,4.5,40,,,"SYSTEM, ANTI_FTR, DO_NOT_AIM, DO_NOT_CONSERVE, MISSILE_SPREAD","utility7, missile0",,,,Anti Small Craft,Very Fast,Excellent,,,,,,,,22210.1
-Newt MRM,rr_newt,0,,1000,1500,,60,750,7,30,,,,,FRAGMENTATION,0,,0,25,1,,0,0,0,,,400,50,11.5,100,,,"SYSTEM, DO_NOT_AIM, HEATSEEKER","utility13, missile0",,,,Anti Engine,Fast,Excellent,,,,,,,TRUE,22211.25
+D-TPC Dummy,rr_d-tpc_split,0,,100000,1000,,180,,0,0,,,,,ENERGY,108,,0,0.1,1,,0,0,0,0,,1000,,,,,,"SYSTEM, SHOW_IN_CODEX",,,,,General,,,,,,,,,,22240.1
+Axle Microtorpedo Rack,rr_axle_f,0,,1000,1200,,360,,25,10,1,2,,,HIGH_EXPLOSIVE,0,,0,4.1,2,0.5,16,24,8,0.5,,550,50,4,175,,,"SYSTEM, STRIKE, SHOW_IN_CODEX","strike6, rocket4",,,,Torpedo,Fast,None,,,,,,,TRUE,2229.9
+Light Needler (Compact),rr_lightneedler_c,0,,1000,500,,40,,1,20,8,,,,KINETIC,30,,0,2.85,10,0.05,5,20,1.5,5,,1000,,,10,,,"SYSTEM, SHOW_IN_CODEX",kinetic9,,,,Anti Shield,,,,,,,,,,2223.65
+Arpo MRM (Twin),rr_arpo_f,0,,1000,1200,,500,,15,30,2,2,,,HIGH_EXPLOSIVE,0,,0,0.9,1,,10,10,0,0,,240,90,10,150,,,"SYSTEM, DO_NOT_AIM, SHOW_IN_CODEX","missile7, strike2",,Pirate,,Finisher,Medium,Medium,,,,,,,TRUE,22211.5
+Gyro Micromissile Array,rr_conc_gyro_array,0,,1000,800,,100,30,10,0,,9,1.5,3,FRAGMENTATION,0,,0,0.15,1,,25,40,5,3,,500,125,4.5,40,,,"SYSTEM, ANTI_FTR, DO_NOT_AIM, DO_NOT_CONSERVE, MISSILE_SPREAD, SHOW_IN_CODEX","utility7, missile0",,,,Anti Small Craft,Very Fast,Excellent,,,,,,,,22210.1
+Newt MRM,rr_newt,0,,1000,1500,,60,750,7,30,,,,,FRAGMENTATION,0,,0,25,1,,0,0,0,,,400,50,11.5,100,,,"SYSTEM, DO_NOT_AIM, HEATSEEKER, SHOW_IN_CODEX","utility13, missile0",,,,Anti Engine,Fast,Excellent,,,,,,,TRUE,22211.25
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Itano Gyro Dummy,rr_gyro_itano,0,,1000,1000,,100,30,10,50,,,,,FRAGMENTATION,0,,0,0.1,1,,30,40,5,3,,500,125,5,40,,,"SYSTEM, MISSILE_SPREAD",,,,,,,,,,,,,,,2229.11
 Itano Bearing Dummy,rr_bearing_itano,0,,1000,1200,,75,,25,20,,,,,KINETIC,0,,0,0.1,1,,8,14,2,2,,500,50,4,60,,,"SYSTEM, MISSILE_SPREAD, DIRECT_AIM",,,,,,,,,,,,,,,2229.12

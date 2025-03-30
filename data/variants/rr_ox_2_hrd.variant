@@ -3,7 +3,7 @@
   "hullId": "rr_ox_2",
   "displayName": "EMP Hardened",
   "goalVariant": true,
-  "fluxCapacitors": 0,
+  "fluxCapacitors": 2,
   "fluxVents": 10,
   "quality": 0,
   "permaMods": [],

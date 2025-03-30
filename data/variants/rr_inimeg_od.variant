@@ -40,11 +40,6 @@
         "WS 001": "heavymg",
         "WS0004": "ioncannon"
       }
-    },
-    {
-      "autofire": true,
-      "mode": "LINKED",
-      "weapons": {}
     }
   ],
   "modules": [],

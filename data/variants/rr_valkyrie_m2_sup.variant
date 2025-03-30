@@ -3,7 +3,7 @@
   "hullId": "rr_valkyrie_m2",
   "displayName": "Fire Support",
   "goalVariant": true,
-  "fluxCapacitors": 8,
+  "fluxCapacitors": 9,
   "fluxVents": 20,
   "quality": 1,
   "permaMods": [],

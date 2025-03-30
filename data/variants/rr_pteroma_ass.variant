@@ -3,7 +3,7 @@
   "hullId": "rr_pteroma",
   "displayName": "Assault",
   "goalVariant": true,
-  "fluxCapacitors": 8,
+  "fluxCapacitors": 10,
   "fluxVents": 30,
   "quality": 1,
   "permaMods": [],

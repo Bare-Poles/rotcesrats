@@ -3,7 +3,7 @@
   "hullId": "rr_onquest",
   "displayName": "Elite",
   "goalVariant": true,
-  "fluxCapacitors": 22,
+  "fluxCapacitors": 26,
   "fluxVents": 50,
   "quality": 1,
   "permaMods": [],

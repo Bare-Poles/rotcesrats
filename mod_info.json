@@ -3,9 +3,9 @@
  "name": "RotcesRats",
  "author": "Amazigh",
 
- "version": {"major":0, "minor":3, "patch":3},
+ "version": {"major":0, "minor":3, "patch":4},
  "description": "Some Unusual Ships.",
- "gameVersion": "0.97a-RC6",
+ "gameVersion": "0.98a-RC5",
 
  "jars":["jars/Rotcesrats.jar"],
 

@@ -3,7 +3,7 @@
   "hullId": "rr_scut",
   "displayName": "Assault",
   "goalVariant": true,
-  "fluxCapacitors": 5,
+  "fluxCapacitors": 6,
   "fluxVents": 20,
   "quality": 1,
   "permaMods": [],

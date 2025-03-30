@@ -3,7 +3,7 @@
   "hullId": "rr_cephalofoil",
   "displayName": "Balanced",
   "goalVariant": true,
-  "fluxCapacitors": 3,
+  "fluxCapacitors": 5,
   "fluxVents": 20,
   "quality": 1,
   "permaMods": [],

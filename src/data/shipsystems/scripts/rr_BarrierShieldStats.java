@@ -8,7 +8,7 @@ public class rr_BarrierShieldStats extends BaseShipSystemScript {
 
 	public void apply(MutableShipStatsAPI stats, String id, State state, float effectLevel) {
 		
-		stats.getShieldDamageTakenMult().modifyMult(id, 1f - .8f * effectLevel);
+		stats.getShieldDamageTakenMult().modifyMult(id, 1f - (0.8f * effectLevel));
 		stats.getShieldUpkeepMult().modifyMult(id, 0f);
 		
 		if (state == ShipSystemStatsScript.State.OUT) {

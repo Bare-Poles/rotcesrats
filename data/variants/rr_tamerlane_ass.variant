@@ -3,7 +3,7 @@
   "hullId": "rr_tamerlane",
   "displayName": "Assault",
   "goalVariant": true,
-  "fluxCapacitors": 7,
+  "fluxCapacitors": 8,
   "fluxVents": 10,
   "quality": 1,
   "permaMods": [],

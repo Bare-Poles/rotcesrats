@@ -3,7 +3,7 @@
   "hullId": "rr_onquest",
   "displayName": "Scavenged",
   "goalVariant": true,
-  "fluxCapacitors": 34,
+  "fluxCapacitors": 36,
   "fluxVents": 50,
   "quality": 1,
   "permaMods": [],
